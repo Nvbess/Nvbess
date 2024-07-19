@@ -10,7 +10,7 @@
 I am a Student of Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile 🇨🇱.
 - :telescope: I’m working as a Barista in Starbucks Coffee 🧜‍♀️.
 
-- :seedling: Always ready to learn even more about IT.
+- :seedling: Always willing to learn even more about Software Development.
 
 - :zap: In my free time, I like to watch movies and read books. If you want, you can follow me on <a href="https://letterboxd.com/Juliomw/" style="text-decoration:none;">Letterboxd</a> ^^
 
