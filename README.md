@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJ0OGxiaGlyM29tdmVwZzR0ZnAwb3JuNGhnc3JzamUxd3I0MmI0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
 </div>
 <h1 align="center">
-  Welcome! ^^
+  Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -12,7 +12,7 @@ I am a Student of Computer Engineer <img src="https://media.giphy.com/media/WUlp
 
 - :seedling: Always ready to learn even more about IT.
 
-- :zap: In my free time, I like to watch movies and read books.
+- :zap: In my free time, I like to watch movies and read books. If you want, you can follow me on <a href="https://letterboxd.com/Juliomw/" style="text-decoration:none;">Letterboxd</a> ^^
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julioorellanap/)
 ---
